@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "computing": {
+      "type": "local",
+      "command": "python3",
+      "args": ["/work/app.py"],
+      "env": {}
+    }
+  }
+}

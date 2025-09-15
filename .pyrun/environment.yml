@@ -19,4 +19,6 @@ dependencies:
   - git
 
   - pip:
-    - $LITHOPS
+      - $LITHOPS
+      - fastmcp>=2.10.6
+      - lithops[plotting]>=3.6.0
