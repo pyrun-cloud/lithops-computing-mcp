@@ -2,6 +2,7 @@ from fastmcp import FastMCP
 import lithops
 from typing import Optional
 
+
 mcp = FastMCP("lithops-compute")
 fexec = None
 future = []
